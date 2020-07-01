@@ -1,0 +1,19 @@
+.container .card-title h3{
+	font-size: 20px;
+  font-family: sans-serif;
+}
+
+
+.container .card-text{
+	font-family: sans-serif;
+}
+
+
+.container .head {
+	color: red;
+	font-size: 20px;
+	font-family: sans-serif;
+	text-decoration: none;
+}
+
+
